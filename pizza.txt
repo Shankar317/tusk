@@ -1,0 +1,5 @@
+go to domonies.com
+
+select pizza type
+
+order the pizza
